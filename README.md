@@ -1,2 +1,3 @@
-# webpack
-A webpack demo for the GDG devfest Abuja
+# GDG webpack demo
+
+The webpack demo for my talk at the GDG Devfest Abuja.
